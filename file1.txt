@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 second  change in file1
+=======
+file1 with no changes
+>>>>>>> parent of 5989018 (first change in file1&2)

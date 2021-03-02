@@ -1,1 +1,1 @@
-first change in file2 
+file2 with  no changes
