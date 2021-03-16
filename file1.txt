@@ -1,2 +1,4 @@
 newcomment added in file1
 second  change in file1
+
+new commit added in cloned repo
