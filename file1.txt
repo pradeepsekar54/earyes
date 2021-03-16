@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+newcomment added in file1
 second  change in file1
-=======
-file1 with no changes
->>>>>>> parent of 5989018 (first change in file1&2)
-=======
-file1 with no changes
->>>>>>> parent of 5989018 (first change in file1&2)
